@@ -8,7 +8,7 @@
 "plugins" : ["notifications", "messages", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage", "forum", "label", "url", "page", "resource"],
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
-"presets" : {"url": "http://www.uiass-etudiants.ma/moodle/", "username": ""},
+"presets" : {"url": "https://lasnoser.com/moodle30/", "username": ""},
 "sync_ws_on" : true,
 "sync_css_on" : true,
 "sync_cron": 300000,
@@ -19,5 +19,5 @@
 "extra_js": [],
 "notifications_enabled": true,
 "gcmpn": "694767596569",
-"reportbugmail": "mobile@moodle.com"
+"reportbugmail": "younesmasaoudi1@gmail.com"
 }
